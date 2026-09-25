@@ -21,7 +21,7 @@ Variables include model information, request characteristics, response time, CPU
 ## Project Structure
 
 - `data/` — project datasets
-- `notebooks/` — data cleaning, exploratory data analysis, and statistical modeling
+- `code/` — data cleaning, exploratory data analysis, and statistical modeling
 - `report/` — final technical report
 - `presentation/` — final presentation materials
 
